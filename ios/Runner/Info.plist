@@ -24,6 +24,10 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Expense Tracker uses the camera to scan receipts on this device.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Expense Tracker lets you attach a receipt from your photo library.</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIApplicationSceneManifest</key>
